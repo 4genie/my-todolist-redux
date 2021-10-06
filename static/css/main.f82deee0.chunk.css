@@ -1,0 +1,2 @@
+.todo-btns{opacity:0;margin-right:5px}.todo{display:-webkit-flex;display:flex}.todo:hover .todo-btns{opacity:1}input[type=checkbox]:checked~label{text-decoration:line-through;color:rgba(0,0,0,.3)}.todo__content-wrapper{-webkit-flex:1 1;flex:1 1}.todo__content{display:block}.clear-all,.options div{cursor:pointer;border-radius:6px;padding:4px;border:2px solid transparent}.options div.active{border-color:rgba(255,0,0,.3)}.options div:hover{border-color:rgba(255,0,0,.5)}
+/*# sourceMappingURL=main.f82deee0.chunk.css.map */
